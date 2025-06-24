@@ -1,4 +1,4 @@
-# -sapper-
+# SPACE
 🚀 Space Theme Features:
 
 Cosmic gradient background with twinkling stars
@@ -34,3 +34,6 @@ Game over overlay with celebration/failure messages
 ![image](https://github.com/user-attachments/assets/635d2c48-cbc4-44d2-9c54-8f95ee77f217)
 ![image](https://github.com/user-attachments/assets/05948628-b2b6-447d-b469-2b7aae735339)
 
+# madnessbrains
+![image](https://github.com/user-attachments/assets/3672e3ed-bb4b-4aa3-a8bd-e94cd6969909)
+![image](https://github.com/user-attachments/assets/8f8f9ccf-9807-4aa8-ac7f-ddc8363ed145)
